@@ -1,5 +1,5 @@
-public class DecoyDuck extends Duck{
-
+public class DecoyDuck extends Duck
+{
     public DecoyDuck(){
         quackBehaviour = new NoQuack(); //Constructor
         flyBehaviour = new NoFly();

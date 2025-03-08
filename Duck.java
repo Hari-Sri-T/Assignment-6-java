@@ -29,7 +29,6 @@ abstract public class Duck
     }
 
     // Declaring abstract method
-
     abstract public void display();
 
     // Declaring methods

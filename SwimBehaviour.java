@@ -1,3 +1,4 @@
-public interface SwimBehaviour {
+public interface SwimBehaviour
+{
     public void swim();
 }

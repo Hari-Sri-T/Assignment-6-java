@@ -1,5 +1,5 @@
-public class RubberDuck extends Duck{
-
+public class RubberDuck extends Duck
+{
     public RubberDuck(){ // Constructor
         flyBehaviour = new NoFly();
         quackBehaviour = new Squeak();

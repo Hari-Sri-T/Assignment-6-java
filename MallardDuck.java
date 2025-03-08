@@ -1,4 +1,5 @@
-public class MallardDuck extends Duck{
+public class MallardDuck extends Duck
+{
     public MallardDuck(){
         quackBehaviour = new Quack(); // Constructor
         swimBehaviour = new SwimWithLegs();

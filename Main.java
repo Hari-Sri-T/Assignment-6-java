@@ -34,8 +34,6 @@ public class Main {
         dd.performFly();
 
         System.out.println("--------------");
-
-
     }
 }
 
